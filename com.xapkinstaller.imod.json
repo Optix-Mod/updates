@@ -1,0 +1,8 @@
+{
+  "package": "com.xapkinstaller.imod",
+  "versionCode": 12,
+  "versionName": "2.2",
+  "changelog": "- OptixMod update dialog integrated",
+  "apkUrl": "https://t.me/OptixMod",
+  "forceUpdate": false
+}
