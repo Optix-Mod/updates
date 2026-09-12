@@ -4,5 +4,5 @@
   "versionName": "4.2.1",
   "changelog": "- OptixMod update dialog integrated",
   "apkUrl": "https://t.me/OptixMod",
-  "forceUpdate": true
+  "forceUpdate": false
 }
