@@ -2,7 +2,7 @@
   "package": "com.xapkinstaller.imod",
   "versionCode": 13,
   "versionName": "2.2",
-  "changelog": "- OptixMod update dialog integrated",
-  "apkUrl": "https://t.me/OptixMod",
+  "changelog": "- Premium (subscribed) status\n- All donation themes\n- No ads (banner, installer, dialog)",
+  "apkUrl": "https://t.me/OptixMod/17",
   "forceUpdate": false
 }
