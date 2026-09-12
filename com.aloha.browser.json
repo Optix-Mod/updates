@@ -1,8 +1,8 @@
 {
   "package": "com.aloha.browser",
-  "versionCode": 829102,
-  "versionName": "8.10.2",
-  "changelog": "- Update trigger test",
+  "versionCode": 829101,
+  "versionName": "8.10.1",
+  "changelog": "- Premium subscription (Annual, paid)\n- No premium paywall / upsells\n- All VPN countries selectable\n- Unlimited downloads, faster downloads\n- Aloha Cloud access\n- Ad-free, private browsing flags\n- Premium page shows fully owned",
   "apkUrl": "https://t.me/OptixMod",
   "forceUpdate": false
 }
