@@ -1,0 +1,8 @@
+{
+  "package": "app.ninjavpn.android",
+  "versionCode": 46,
+  "versionName": "1.4.9",
+  "changelog": "- Premium Unlocked — All countries available\n- Ads Free — No banners or interstitials\n- Tracking & Analytics Removed\n- Slimmed Permissions (no Attribution/Topics)\n- ARM64 Optimized — 28 MB",
+  "apkUrl": "https://t.me/OptixMod/22",
+  "forceUpdate": false
+}
